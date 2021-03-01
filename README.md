@@ -4,7 +4,7 @@
 
 
 
-🔭 I’m currently working on Persons Of Interest(P.O.I). A Multi-Platform Software Collection for profile building of suspicious characters!
+🔭 I’m currently working on Persons Of Interest(P.O.I). A Multi-Platform Software Collection for profile building of suspicious characters and Beat Rate A platform where musicians can pay for criticism from normal consumers!
 
 
 🌱 I’m currently learning containerization best practices!
