@@ -4,7 +4,7 @@
 
 
 
-🔭 I’m currently working on  `Ralph`- a home monitoring system that is controlled through the cloud and `Beat Rate`- a platform where musicians can pay for criticism from normal consumers!
+🔭 I’m currently working on  `Ralph`- a home monitoring system that is controlled through the cloud and `Beat Rate`- an open-source platform where musicians can pay for criticism from normal consumers!
 
 
 🌱 I’m currently learning containerization best practices and Rust!
