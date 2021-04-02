@@ -33,6 +33,7 @@
 <img width = "60px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+<img  width = "60px" src = "https://github.com/RonaldColyar/RonaldColyar/blob/main/rust.png"/>
 <img  width = "60px"src ="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png"/>
 </p>
 
