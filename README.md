@@ -4,7 +4,7 @@
 
 
 
-🔭 I’m currently working on  `Ralph`- a home monitoring system that is controlled through the cloud and `Beat Rate`- an open-source platform where musicians can pay for criticism from normal consumers!
+🔭 I’m currently working on  `house-of-IoT`- a home monitoring system that is controlled through the cloud and `Beat Rate`- an open-source platform where musicians can pay for criticism from normal consumers!
 
 
 🌱 I’m currently pursuing IoT ([here](https://github.com/House-of-IoT))!!
