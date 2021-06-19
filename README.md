@@ -4,10 +4,10 @@
 
 
 
-🔭 I’m currently working on  `house-of-IoT` and Iot For Agriculture- a collection of IoT projects.
+🔭 I’m currently working on  `house-of-IoT` and `Iot For Agriculture`- a collection of IoT projects.
 
 
-🌱 I’m currently pursuing IoT ([here](https://github.com/House-of-IoT) and [here](https://github.com/Smart-Agricultural-Solutions))!!
+🌱 Links to the above projects are ([here](https://github.com/House-of-IoT) and [here](https://github.com/Smart-Agricultural-Solutions))!!
 
 👯 I’m looking to collaborate on great software and provide a introduction to IoT to all beginners!
 
