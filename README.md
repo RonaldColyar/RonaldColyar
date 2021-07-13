@@ -3,9 +3,7 @@
 
 
 
-
 🔭 I’m currently working on  `house-of-IoT` and `Iot For Agriculture`- a collection of IoT projects.
-
 
 🌱 Links to the above projects are ([here](https://github.com/House-of-IoT) and [here](https://github.com/Smart-Agricultural-Solutions))!!
 
@@ -15,7 +13,7 @@
 
 
 ⚡ Fun fact: Me without software is like salt without pepper!😂
-
+ 
 # Technologies I typically use:
 <p>
 <img align="left" alt="Nodejs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
