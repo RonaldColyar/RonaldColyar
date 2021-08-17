@@ -9,8 +9,7 @@
 
 👯 I’m looking to collaborate on great software and provide a introduction to IoT for all beginners!
 
-📫 Connect With Me!: [LinkedIn](https://www.linkedin.com/in/ronald-colyar-055392156/) , [Twitter](https://twitter.com/ColyarRonald) 
-
+📫 Connect With Me!: [LinkedIn](https://www.linkedin.com/in/ronald-colyar-055392156/) , [Twitter](https://twitter.com/ColyarRonald)
 
 ⚡ Fun fact: Me without software is like salt without pepper!😂
  
