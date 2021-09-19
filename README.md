@@ -3,7 +3,7 @@
 
 
 
-🔭 I’m currently working on  `house-of-IoT` and `Iot For Agriculture`- a collection of IoT projects.
+🔭 I’m currently working on  [House-of-Iot](https://github.com/House-of-IoT) - a collection of IoT projects for home automation with DIY motivation.
 
 🌱 Links to the above projects are ([here](https://github.com/House-of-IoT) and [here](https://github.com/Smart-Agricultural-Solutions))!!
 
