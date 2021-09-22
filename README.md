@@ -2,12 +2,9 @@
 <h3 align="center">Diverse Software Engineer and Computational Enthusiast From The United States/Illinois!</h3>
 
 
-
 🔭 I’m currently working on  [House-of-Iot](https://github.com/House-of-IoT) - a collection of IoT projects for home automation with DIY motivation.
 
-🌱 Links to the above projects are ([here](https://github.com/House-of-IoT) and [here](https://github.com/Smart-Agricultural-Solutions))!!
-
-👯 I’m looking to collaborate on great software and provide a introduction to IoT for all beginners!
+👯 I’m looking to collaborate on great software!
 
 📫 Connect With Me!: [LinkedIn](https://www.linkedin.com/in/ronald-colyar-055392156/) , [Twitter](https://twitter.com/ColyarRonald)
 
