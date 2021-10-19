@@ -6,7 +6,7 @@
 
 🙂 I'm currently learning WASM.
 
-👯 I’m looking to collaborate on great software!
+👯 I’m looking to collaborate on great software to help the world!
 
 📫 Connect With Me!: [LinkedIn](https://www.linkedin.com/in/ronald-colyar-055392156/) , [Twitter](https://twitter.com/ColyarRonald)
 
