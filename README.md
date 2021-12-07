@@ -2,7 +2,10 @@
 <h3 align="center">Diverse Software Engineer and Computational Enthusiast From The United States/Illinois!</h3>
 
 
-🔭 I’m currently working on  [House-of-Iot](https://github.com/House-of-IoT) - a collection of custom smart device automation software with advanced features out of the box and [Collaborative-IoT](https://github.com/Collaborative-IoT) - a platform for collectively controlling IoT devices/systems with a group of peers that supports real time voice and text communication.
+🔭 I’m currently working on:
+
+- [House-of-Iot](https://github.com/House-of-IoT) - a collection of custom smart device automation software with advanced features out of the box.
+- [Collaborative-IoT](https://github.com/Collaborative-IoT) - a platform for collectively controlling IoT devices/systems with a group of peers that supports real time voice and text communication.
 
 🙂 I'm currently learning WASM.
 
