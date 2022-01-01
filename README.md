@@ -1,6 +1,4 @@
 <h1 align = "center">Hi I'm Ronald😄</h1>
-<h3 align="center">Diverse Software Engineer and Computational Enthusiast From The United States/Illinois!</h3>
-
 
 🔭 I’m currently working on:
 - [House-of-Iot](https://github.com/House-of-IoT) - a collection of custom smart device automation software with advanced features out of the box.
