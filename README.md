@@ -4,7 +4,7 @@
 - [House-of-Iot](https://github.com/House-of-IoT) - a collection of custom smart device automation software with advanced features out of the box.
 - [Collaborative-IoT](https://github.com/Collaborative-IoT) - a platform for collectively controlling IoT devices/systems with a group of peers that supports real time voice and text communication.
 
-🚀 I'm currently learning WASM and Web3.0 based authentication.
+🚀 I'm currently learning WASM/WEBGL and Web3.0 based authentication.
 
 🚀 I’m looking to collaborate on great software and improve open source IoT!
 
