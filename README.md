@@ -1,9 +1,6 @@
 <h1 align = "center">Hi I'm Ronald😄</h1>
 
-🔭 I’m currently working on:
-- [Flash](https://github.com/RonaldColyar/Flash) 
-- [House-of-Iot](https://github.com/House-of-IoT) - a collection of custom smart device automation software with advanced features out of the box.
-- [Collaborative-IoT](https://github.com/Collaborative-IoT) - a platform for collectively controlling IoT devices/systems with a group of peers that supports real time voice and text communication.
+🔭 I’m currently working on something that is closed source but may leak over into the OS world.
 
 🚀 I'm currently learning a bit of everything haha.
 
